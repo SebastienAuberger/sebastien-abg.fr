@@ -1,3 +1,5 @@
+[![Project Deploy](https://github.com/SebastienAuberger/sebastien-abg.fr/actions/workflows/main.yml/badge.svg)](https://github.com/SebastienAuberger/sebastien-abg.fr/actions/workflows/main.yml)
+
 # Personal Website Repository
 
 ## What is it ?
