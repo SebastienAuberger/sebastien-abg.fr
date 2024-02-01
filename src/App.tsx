@@ -2,6 +2,7 @@ import "nes.css/css/nes.min.css";
 import "../public/assets/css/style.css"
 import "./component/about"
 import About from "./component/about";
+import Footer from "./component/footer";
 
 function App() {
   return (
@@ -20,6 +21,7 @@ function App() {
         <p>Bienvenue cher ami !</p>
       </header>
       <About/>
+      <Footer />
     </>
   )
 }

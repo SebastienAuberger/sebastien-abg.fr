@@ -68,7 +68,7 @@ function About() {
                                 <i className="nes-icon is-large heart"></i>
                                 <i className="nes-icon is-large heart"></i>
                                 <i className="nes-icon is-large is-half heart"></i>
-                                <i className="nes-icon is-large is-transparent"></i>
+                                <i className="nes-icon is-large heart is-transparent"></i>
                             </td>
                         </tr>
                         </tbody>
@@ -168,7 +168,7 @@ function About() {
                                     <i className="nes-icon is-large heart"></i>
                                     <i className="nes-icon is-large heart"></i>
                                     <i className="nes-icon is-large is-half heart"></i>
-                                    <i className="nes-icon is-large is-transparent"></i>
+                                    <i className="nes-icon is-large heart is-transparent"></i>
                                 </td>
                             </tr>
                         </tbody>
