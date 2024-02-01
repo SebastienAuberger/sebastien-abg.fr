@@ -1,4 +1,4 @@
-import MediaQuery, { useMediaQuery } from "react-responsive"
+import MediaQuery from "react-responsive"
 
 function About() {
   return (
